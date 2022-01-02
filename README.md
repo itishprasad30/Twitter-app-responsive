@@ -3,6 +3,6 @@
 ### 2.Tailwind CSS
 ### 3.Firebase
 ### 4.REcoil (for state manegedment)
-
+### 5.Vercel (hosting)
 
 
